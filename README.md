@@ -1,6 +1,7 @@
 # Análisis-Co2-Colombia
 Actividad 4 - Introducción Ciencia de Datos
 
+
 # Análisis de emisiones de CO₂ en Colombia
 
 **Actividad 4 – Introducción a la Ciencia de Datos**
